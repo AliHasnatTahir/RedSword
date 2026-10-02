@@ -1,0 +1,44 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: arm64
+Codename: stable
+Components: main
+Date: Fri, 02 Oct 2026 19:09:18 +0000
+Description: RedSword update channel
+Label: RedSword
+Origin: RedSword
+Suite: stable
+MD5Sum:
+ 4ea140c974a83afeb4ede4da56c50793              177 Release
+ 01e6447b5af15c7fea7d89d29aeb551c              870 main/binary-arm64/Packages
+ 92000950fb9d1bd87f52c607b45d3ceb              596 main/binary-arm64/Packages.gz
+SHA1:
+ b78f9088d3a9352f70e98bd716ab6e01bb0bf7ec              177 Release
+ 9fb7b9b69d16d0e03e4022c741ca1f94818e86a4              870 main/binary-arm64/Packages
+ d678f0f68a1a55daf0f914e3e4f5fae23a4ed072              596 main/binary-arm64/Packages.gz
+SHA256:
+ 70cec5caa58b4ad0b77a42a7a84a8d8c57f3d17f137e7d19ab3108a876c03aac              177 Release
+ 7c8745dd8a52cee03e5ce524a451cd864b230a28351cb34e4cba88dc830d1373              870 main/binary-arm64/Packages
+ 35ca0ce8601244e3756c7dfef3c10b311b57df2003666d4d1a227f026b655b09              596 main/binary-arm64/Packages.gz
+SHA512:
+ f00d12d4246c077ed66a547168c1e51594e6f57d2bbbf9128e8f4d6c968342862a1a3871df581d348f1e9bed6fc53b5658a0cc391c84fe91bff7ca8752bc7690              177 Release
+ 3dcfe450f79bd121370d7a9792d89ba56dd9d6854abe21531da8072b5bbc9adcd43a51f6001a76bb883230bf7d7243bf00234ac12593a60344bcbdc1f6dad5ae              870 main/binary-arm64/Packages
+ afc883a65a55be8964e6015848b4afa6b88a1c5c6bd8859d69e87e1145838cde8797685f72280ec9091df17d07ff6992ae38f6fc9e5667a06ba9378aa37961ba              596 main/binary-arm64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQJIBAEBCgAyFiEE40MInmddSiqs6IG3M4feRW3o6QkFAmrAAV4UHHVwZGF0ZXNA
+cmVkc3dvcmQub3MACgkQM4feRW3o6Qmcnw//fNyN4q43XYWMYq8iJR6+oRHoRRU6
+MxCsi2qwEyiu0C0REn+SsAqAhRyV8C2+UoJ9eIhmWa4pf2a4UPrGaVmZdZbXrlWw
+CKKd6h0KceF3Jz1MyuIt7fJ6VG2nugWzArP86qGpctEM2BOSftKJP/YwvNwWZdIL
+MewyKCLUFX28vnH3E9SAfV3a5a2HWMK4bwZqusY+FBVwPQOWq4ktgeWHZKjXWmQz
+CsKPcPF6NG8UKebEogW1iwIcZx78vLPFf2GAQXtV7N8DPoMLlIMVb3cx6YrbyJQ8
+imaATfeZzzJxr1O1MBQ7OXXXnXn5pWRC/SZOfTvejWHwtrAwg43rH3LQbzwr2VNb
+Lokce6IIsC9xMF65ug+Mxg6qQefbXqjbpWdXB0m27Z2mbjVTUc7V3myAhx7C/TVm
+h+MmRMgMte6k5afSFA8rf7c/aC2msxGp/NGXQiECUzcMC+kBmeuj3ZvxWZ2laUap
+VPOZ1nWb9/LR+VDtCTU3dHA0dLuPMXIVB5Bw9YzBuJ3jx4bYrhntnkY2isYQhmKB
+HlmANxjNfZFMAWBTK1u3FQiUWz9dW2y0G8lSjmsXcqAbtwP3eYfrFKWim0JP2V3/
+d4OM8tprDt1LhOTWfwpQ7+TPkp/q97yvB9MBG/MI9zg+2TdiuFCWpf/lefUAFtCI
+AL64c6tUqEv3aFY=
+=VcCs
+-----END PGP SIGNATURE-----

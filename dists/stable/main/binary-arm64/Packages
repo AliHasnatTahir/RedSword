@@ -1,0 +1,19 @@
+Package: redsword-desktop
+Architecture: arm64
+Version: 1.0.0
+Priority: optional
+Section: x11
+Maintainer: Noman Afzal <updates@redsword.os>
+Installed-Size: 1504
+Depends: python3, python3-gi, gir1.2-gtk-3.0, xfce4-panel
+Filename: pool/main/redsword-desktop_1.0.0_arm64.deb
+Size: 1159336
+MD5sum: c6618da7036baf33f84d2162081bbc84
+SHA1: dfd6e0ebd5658351f9ddc6d07fef31345f22d8b6
+SHA256: 138a884790cd170303314d8f0aca7aa2330e08c08e1c76bac19df1707910c64b
+SHA512: 0a1014d47b0821a59ec1ae0e80b26e3398a2d83a4b6ef39d52f4c63b8db409f2aed5fe4e81ab6119af710966ae07438c4b27f20e196acfade89bf18a981f6f06
+Description: RedSword desktop shell, apps and branding
+ The RedSword custom desktop: top bar, menu, System Settings, Notification
+ Center, Control Center, branding, wallpaper and the Software Update client.
+ Upgrading this package delivers RedSword improvements to an installed system.
+
